@@ -1,0 +1,21 @@
+.icon {
+    width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    display: inline-block;
+}
+
+.icon-lg {
+    width: 32px;
+    height: 32px;
+}
+
+.icon-star {
+    background-image: url('../icon/star.svg');
+}
+
+.icon-search {
+    background-image: url('../icon/search.svg');
+}

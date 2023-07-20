@@ -1,0 +1,27 @@
+.btn {
+    padding: 16px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    border: none;
+}
+
+.btn-block {
+    display: flex;
+    width: 100%;
+}
+
+.btn-rounded {
+    border-radius: 16px;
+}
+
+.btn-primary {
+    background-color: #4571F5;
+    color: #fff;
+}
+
+.btn-red {
+    background-color: red;
+    color: #fff;
+}
